@@ -23,7 +23,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 7.Apply new unknown values
 
-## Program :
+## PROGRAM :
 #### Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 #### Developed by : Pradeep Raj P
 #### RegisterNumber : 212222240073
@@ -82,44 +82,44 @@ print(classification_report1)
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
-## Output:
+## OUTPUT:
 
-### PLACEMENT DATA
+### Placement_data
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/2d30f6e7-146a-4759-b90e-6e50676a2bc8)
 
-### SALARY DATA
+### Salary_data
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/0d52c60f-4712-4e31-bdac-8ab2b3229c47)
 
-### ISNULL() FUNCTION
+### ISNULL()
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/b9f45afa-0d93-421f-9d73-d3fc072250e6)
 
 ### DUPLICATED()
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/dcf0bf6e-543f-41d2-82f8-2cb93777173e)
 
-### PRINT DATA
+### Print Data
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/4659883d-f53a-4d4d-8183-8b36cd480d45)
 
 ### iloc[:,:-1]
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/dd8c3742-8749-4cac-ad58-cdf86433b80b)
 
-### DATA_STATUS
+### Data_Status
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/af901a2d-25fe-493e-9d6c-ec33cbf23e90)
 
-### Y_PREDICTION ARRAY:
+### Y_Prediction array:
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/50a32c48-d67d-49ab-9e0c-20140d857436)
 
-### ACCURACY VALUE:
+### Accuray value:
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/77b946f3-a6b2-4a98-8566-ca6878cacad6)
 
-### CONFUSION ARRAY:
+### Confusion Array:
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/7edbb883-e626-428b-9648-e8726cb252e5)
 
-### CLASSIFICATION REPORT:
+### Classification report:
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/05e10820-342d-4c64-b51d-c73795e46d92)
 
-### PREDICTION OF LR:
+### Prediction of LR:
 ![image](https://github.com/Pradeeppachiyappan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707347/05562708-e9ca-43a3-8981-a5834e4a2948)
 
 
-## Result :
+## RESULT :
 Thus,the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
